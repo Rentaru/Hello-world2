@@ -1,1 +1,2 @@
-cout <<"Привет мир"
+cout <<"hello world"
+cout << "hi"
